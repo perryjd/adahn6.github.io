@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      Her Story
+date:       2015-06-25 13:14:32
+summary:    Review of Her Story
+categories: games her_story
+---
+
+### Her Story
+
+A woman stares at the camera and pleads that she is innocent, and so the investigation into murder begins. A woman's life story, divided into 20 second video clips. As they play, resolving the crime ceases to drive us. Instead, we search so we can better understand this other human. Her hopes, her fears, her flaws, all out for us to see. And yet... we don't understand. 
+Even as we see confessions of secrets, doubt creeps in. Perhaps that is the point; in the age of social media, we hear everything people say about themselves. But do we really know them?
+
+### 9/10
