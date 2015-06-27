@@ -3,8 +3,8 @@ title:       Sam's Blog
 email:       adahn6@gmail.com
 author:      Samuel Gass
 description: ""
-baseurl:     "http://adahn6.github.io"
-url:         "http://adahn6.github.io"
+baseurl:     ""
+url:         "https://adahn6.github.io"
 
 # Optional features
 animated:           false
