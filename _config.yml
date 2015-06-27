@@ -1,0 +1,9 @@
+name: "Samuel Gass"
+description: "Sam's Homepage"
+
+url: "http://adahn6.github.io"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
