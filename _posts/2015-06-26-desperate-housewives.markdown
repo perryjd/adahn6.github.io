@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Desperate Housewives Season One
-date:       2015-06-11
+date:       2015-06-27
 summary:    Review of Desperate Housewives Season One
 categories: tv desperate_housewives
 ---
