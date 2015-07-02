@@ -219,6 +219,7 @@ table {
   padding: .25em 0;
   color: #7a7a7a;
   font-style: italic;
+  text-align: center;
 }
 
 .pagination .button {
@@ -574,4 +575,12 @@ Copyright (c) 2014 Daniel Eden
 .fade-in-down {
   -webkit-animation-name: fadeInDown;
           animation-name: fadeInDown;
+}
+
+.score {
+  text-align: center;
+}
+
+.title{
+  text-align: center;
 }
