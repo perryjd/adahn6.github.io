@@ -4,7 +4,7 @@ title:      Desperate Housewives Season One
 date:       2015-06-27
 summary:    Review of Desperate Housewives Season One
 categories: tv desperate_housewives
-score: 7
+score:      7
 ---
 
 ![desperate housewives image](http://i.huffpost.com/gen/2045836/images/o-DESPERATE-HOUSEWIVES-SCENE-facebook.jpg)
