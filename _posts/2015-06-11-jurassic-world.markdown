@@ -2,7 +2,7 @@
 layout:     post
 title:      Jurassic World
 date:       2015-06-11
-summary:    Review of Jurassic World
+summary:    Intolerabus Rex
 categories: movies jurassic_world
 score:      4
 ---

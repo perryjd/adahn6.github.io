@@ -2,7 +2,7 @@
 layout:     post
 title:      Desperate Housewives Season One
 date:       2015-06-27
-summary:    Review of Desperate Housewives Season One
+summary:    Bad neighbors make good tv
 categories: tv desperate_housewives
 score:      7
 ---
