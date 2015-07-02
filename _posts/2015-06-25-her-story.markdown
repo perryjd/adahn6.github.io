@@ -2,7 +2,7 @@
 layout:     post
 title:      Her Story
 date:       2015-06-25
-summary:    Review of Her Story
+summary:    Oh what a tangled database we weave...
 categories: games her_story
 score:      9
 ---
