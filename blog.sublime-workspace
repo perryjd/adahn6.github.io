@@ -8,42 +8,76 @@
 	"buffers":
 	[
 		{
-			"file": "_posts/2015-06-11-jurassic-world.markdown",
+			"file": "_sass/_posts.scss",
 			"settings":
 			{
-				"buffer_size": 865,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2015-06-27-adaptation.markdown",
-			"settings":
-			{
-				"buffer_size": 928,
+				"buffer_size": 814,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "_posts/2015-06-25-her-story.markdown",
+			"file": "_layouts/page.html",
 			"settings":
 			{
-				"buffer_size": 834,
+				"buffer_size": 204,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "_posts/2015-06-18-inside-out.markdown",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 874,
+				"buffer_size": 593,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "_posts/2015-06-26-desperate-housewives.markdown",
+			"contents": "Searching 58 files for \"color\"\n\nC:\\Users\\adahn_000\\Documents\\GitHub\\adahn6.github.io\\_sass\\_basscss.scss:\n   18  \n   19  @import 'basscss/syntax-highlighting';\n   20: @import 'basscss/color-base';\n   21: @import 'basscss/colors';\n   22  \n   23  @import 'basscss/utility-headings';\n\nC:\\Users\\adahn_000\\Documents\\GitHub\\adahn6.github.io\\_sass\\_blockquotes.scss:\n    7  \n    8  blockquote footer {\n    9:   background-color: #fff;\n   10:   border-color: transparent;\n   11:   color: #7a7a7a;\n   12    font-size: .85rem;\n   13    font-style: normal;\n\nC:\\Users\\adahn_000\\Documents\\GitHub\\adahn6.github.io\\_sass\\_code.scss:\n    1  pre,\n    2  pre code {\n    3:   background-color: transparent;\n    4    border-radius: $pre-border-radius;\n    5  }\n    .\n   11  \n   12  code {\n   13:   color: #7a7a7a;\n   14  }\n   15  \n   ..\n   19    overflow-x: scroll;\n   20    margin-bottom: 0.88em;\n   21:   background-color: $pre-background-color;\n   22  }\n   23  \n   ..\n   43    opacity: 0.7;\n   44    display: inline-block;\n   45:   color: $light-gray;\n   46    margin-right: 16px;\n   47    font-size: 13px;\n\nC:\\Users\\adahn_000\\Documents\\GitHub\\adahn6.github.io\\_sass\\_footer.scss:\n   10  \n   11  footer {\n   12:   background-color: $footer-bg-color;\n   13    border-top: $footer-border-top;\n   14:   color: $footer-color;\n   15    font-size: $footer-font-size;\n   16    font-weight: $footer-font-weight;\n\nC:\\Users\\adahn_000\\Documents\\GitHub\\adahn6.github.io\\_sass\\_forms.scss:\n   51  \n   52  .field-light {\n   53:   background-color: white;\n   54    transition: box-shadow .2s ease;\n   55    border-style: solid;\n   56    border-width: $border-width;\n   57:   border-color: $border-color;\n   58    border-radius: $border-radius;\n   59  }\n   ..\n   61  .field-light:focus {\n   62    outline: none;\n   63:   border-color: $blue;\n   64    box-shadow: 0 0 2px rgba($blue,.5);\n   65  }\n   66  \n   67  .field-light:disabled {\n   68:   color: $mid-gray;\n   69:   background-color: $darken-2;\n   70  }\n   71  \n   72  .field-light:read-only:not(select) {\n   73:   background-color: $darken-2;\n   74  }\n   75  \n   76  .field-light:invalid {\n   77:   border-color: $red;\n   78  }\n   79  \n   80  .field-light.is-success {\n   81:   border-color: $green;\n   82  }\n   83  \n   84  .field-light.is-warning {\n   85:   border-color: $yellow;\n   86  }\n   87  \n   88  .field-light.is-error {\n   89:   border-color: $red;\n   90  }\n   91  \n\nC:\\Users\\adahn_000\\Documents\\GitHub\\adahn6.github.io\\_sass\\_header.scss:\n    1  .site-header a {\n    2:   color: #333;\n    3    font-size: $h3;\n    4    font-weight: 300;\n    .\n    6  \n    7  .site-header nav a {\n    8:   color: #666;\n    9  }\n   10  \n   ..\n   12  .site-header nav a:focus,\n   13  .site-header nav a:active {\n   14:   color: #444;\n   15    opacity: 1;\n   16    border-bottom: 2px solid #444;\n\nC:\\Users\\adahn_000\\Documents\\GitHub\\adahn6.github.io\\_sass\\_links.scss:\n    1  a,\n    2  a:visited {\n    3:   color: $link-color;\n    4  }\n    5  \n    .\n    8  a:active {\n    9    border: 0;\n   10:   color: $link-hover-color;\n   11    text-decoration: none;\n   12  }\n\nC:\\Users\\adahn_000\\Documents\\GitHub\\adahn6.github.io\\_sass\\_pagination.scss:\n   14    border-radius: 0.1875em;\n   15    border: 1px solid #f3f3f3;\n   16:   color: #333333;\n   17    padding: 1em 1.5em;\n   18  }\n   ..\n   24  .pagination a:hover, .pagination a:focus {\n   25    background: white;\n   26:   color: #477dca;\n   27  }\n   28  \n   ..\n   39  .button-disabled {\n   40    opacity: 0.55;\n   41:   background-color: #999;\n   42  }\n   43  \n   ..\n   46  .button-disabled:focus {\n   47    cursor: not-allowed;\n   48:   background-color: #999;\n   49  }\n   50  \n\nC:\\Users\\adahn_000\\Documents\\GitHub\\adahn6.github.io\\_sass\\_posts.scss:\n   18    margin-top: 0;\n   19    font-weight: 600;\n   20:   color: #333;\n   21  }\n   22  \n   ..\n   40    margin: 0;\n   41    padding: .25em 0;\n   42:   color: #7a7a7a;\n   43    font-style: italic;\n   44    text-align: center;\n\nC:\\Users\\adahn_000\\Documents\\GitHub\\adahn6.github.io\\_sass\\_typography.scss:\n    9  \n   10  p {\n   11:   color: #333;\n   12    line-height: 1.5;\n   13  }\n\nC:\\Users\\adahn_000\\Documents\\GitHub\\adahn6.github.io\\_sass\\_variables.scss:\n   32  $viewport-large: 64rem;\n   33  \n   34: // Colors\n   35  $blue: #0076df !default;\n   36  $red: #f95020 !default;\n   ..\n   54  \n   55  // Links\n   56: $link-color: $blue;\n   57: $link-hover-color: darken($blue, 40%);\n   58  \n   59  // Breakpoints\n   ..\n   82  \n   83  // Borders\n   84: $border-color: $light-gray !default;\n   85  $border-width: 1px !default;\n   86  $border-radius: 3px !default;\n   ..\n   94  // Code\n   95  $pre-border-radius: 0;\n   96: $pre-background-color: #fafafa;\n   97  $hljs-comment: $mid-gray;\n   98  $hljs-keyword: $dark-gray;\n   ..\n  115  $footer-border-top: thin solid #f3f3f3;\n  116  $footer-padding: $space-3;\n  117: $footer-color: #7a7a7a;\n  118: $footer-bg-color: #fafafa;\n  119  $footer-font-weight: 300;\n  120  $footer-font-size: .75rem;\n\nC:\\Users\\adahn_000\\Documents\\GitHub\\adahn6.github.io\\_sass\\basscss\\_buttons-blue.scss:\n    1  .button-blue {\n    2:   color: white;\n    3:   background-color: $blue;\n    4    border-radius: $border-radius;\n    5    transition-duration: .1s;\n    6    transition-timing-function: ease-out;\n    7:   transition-property: box-shadow, background-color;\n    8  }\n    9  \n\nC:\\Users\\adahn_000\\Documents\\GitHub\\adahn6.github.io\\_sass\\basscss\\_color-base.scss:\n    1: /* Basscss Color Base */\n    2  \n    3  body {\n    4:   color: $dark-gray;\n    5:   background-color: white;\n    6  }\n    7  \n    8  a {\n    9:   color: $blue;\n   10    text-decoration: none;\n   11  }\n   ..\n   17  pre,\n   18  code {\n   19:   background-color: $lighter-gray;\n   20    border-radius: $border-radius;\n   21  }\n   ..\n   25    border-bottom-style: solid;\n   26    border-bottom-width: $border-width;\n   27:   border-bottom-color: $border-color;\n   28  }\n   29  \n\nC:\\Users\\adahn_000\\Documents\\GitHub\\adahn6.github.io\\_sass\\basscss\\_colors.scss:\n    1: /* Basscss Colors */\n    2  \n    3  .dark-gray {\n    4:   color: $dark-gray;\n    5  }\n    6  \n    7  .white {\n    8:   color: white;\n    9  }\n   10  \n   11  .blue {\n   12:   color: $blue;\n   13  }\n   14  \n   15  .mid-gray {\n   16:   color: $mid-gray;\n   17  }\n   18  \n   19  .light-gray {\n   20:   color: $light-gray;\n   21  }\n   22  \n   23  .lighter-gray {\n   24:   color: $lighter-gray;\n   25  }\n   26  \n   27  .red {\n   28:   color: $red;\n   29  }\n   30  \n   31  .green {\n   32:   color: $green;\n   33  }\n   34  \n   35  .yellow {\n   36:   color: $yellow;\n   37  }\n   38  \n   39  .orange {\n   40:   color: $orange;\n   41  }\n   42  \n   43  .bg-dark-gray {\n   44:   background-color: $dark-gray;\n   45  }\n   46  \n   47  .bg-white {\n   48:   background-color: white;\n   49  }\n   50  \n   51  .bg-blue {\n   52:   background-color: $blue;\n   53  }\n   54  \n   55  .bg-mid-gray {\n   56:   background-color: $mid-gray;\n   57  }\n   58  \n   59  .bg-light-gray {\n   60:   background-color: $light-gray;\n   61  }\n   62  \n   63  .bg-lighter-gray {\n   64:   background-color: $lighter-gray;\n   65  }\n   66  \n   67  .bg-red {\n   68:   background-color: $red;\n   69  }\n   70  \n   71  .bg-green {\n   72:   background-color: $green;\n   73  }\n   74  \n   75  .bg-yellow {\n   76:   background-color: $yellow;\n   77  }\n   78  \n   79  .bg-orange {\n   80:   background-color: $orange;\n   81  }\n   82  \n   83  .bg-darken-1 {\n   84:   background-color: $darken-1;\n   85  }\n   86  \n   87  .bg-darken-2 {\n   88:   background-color: $darken-2;\n   89  }\n   90  \n   91  .bg-darken-3 {\n   92:   background-color: $darken-3;\n   93  }\n   94  \n   95  .bg-darken-4 {\n   96:   background-color: $darken-4;\n   97  }\n   98  \n\nC:\\Users\\adahn_000\\Documents\\GitHub\\adahn6.github.io\\_sass\\basscss\\_syntax-highlighting.scss:\n    4  \n    5  .highlight .c1 {\n    6:   color: $hljs-comment;\n    7    font-style: italic;\n    8  }\n    .\n   10  .highlight .k,\n   11  .highlight .kp {\n   12:   color: $hljs-keyword;\n   13  }\n   14  \n   15  .highlight .mi {\n   16:   color: $hljs-number;\n   17  }\n   18  \n   19  .highlight .s1 {\n   20:   color: $hljs-string;\n   21  }\n   22  \n   ..\n   24  .hljs-id,\n   25  .scss .hljs-preprocessor {\n   26:   color: $hljs-title;\n   27    font-weight: bold;\n   28  }\n   ..\n   34  .highlight .nc,\n   35  .highlight .no {\n   36:   color: $hljs-type;\n   37  }\n   38  \n   39  .highlight .o {\n   40:   color: $hljs-tag;\n   41    font-weight: normal;\n   42  }\n   43  \n   44  .highlight .nb {\n   45:   color: $hljs-attribute;\n   46  }\n   47  \n   48  .highlight .sr {\n   49:   color: $hljs-regexp;\n   50  }\n   51  \n   52  .highlight .ss {\n   53:   color: $hljs-symbol;\n   54  }\n   55  \n   56  .hljs-built_in {\n   57:   color: $hljs-built-in;\n   58  }\n   59  \n   ..\n   64  .hljs-shebang,\n   65  .hljs-cdata {\n   66:   color: $hljs-preprocessor;\n   67    font-weight: bold;\n   68  }\n   ..\n   81  \n   82  .hljs-chunk {\n   83:   color: $hljs-chunk;\n   84  }\n   85  \n\n94 matches across 15 files\n",
 			"settings":
 			{
-				"buffer_size": 904,
+				"buffer_size": 8931,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "_sass/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 3129,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_sass/_basscss.scss",
+			"settings":
+			{
+				"buffer_size": 529,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_sass/basscss/_colors.scss",
+			"settings":
+			{
+				"buffer_size": 1007,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_layouts/post.html",
+			"settings":
+			{
+				"buffer_size": 1688,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 363,
 				"line_ending": "Windows"
 			}
 		}
@@ -90,28 +124,37 @@
 		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_layouts",
 		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_posts",
 		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_sass",
-		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/css"
+		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_sass/basscss"
 	],
 	"file_history":
 	[
-		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_includes/footer.html",
+		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_sass/basscss/_color-base.scss",
 		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_layouts/post.html",
+		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/index.html",
+		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_includes/footer.html",
+		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_layouts/default.html",
+		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_layouts/page.html",
+		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_sass/_posts.scss",
+		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_sass/_typography.scss",
+		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_sass/_positions.scss",
+		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_includes/head.html",
+		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_config.yml",
+		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_posts/2014-06-08-pixyll-has-pagination.md",
+		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_posts/2015-06-26-desperate-housewives.markdown",
+		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_posts/2015-06-18-inside-out.markdown",
+		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_posts/2015-06-25-her-story.markdown",
+		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_posts/2015-06-27-adaptation.markdown",
+		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_posts/2015-06-11-jurassic-world.markdown",
 		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/css/pixyll.scss",
 		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_sass/_main.scss",
-		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_layouts/page.html",
 		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_layouts/center.html",
-		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_layouts/default.html",
-		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/index.html",
 		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_sass/_basscss.scss",
 		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_sass/_solarized-dark.scss",
 		"/C/Users/adahn_000/Documents/reviews",
 		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/contact.html",
 		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_includes/navigation.html",
 		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_includes/header.html",
-		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_config.yml",
 		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/404.md",
-		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_posts/2015-06-25-her-story.markdown",
-		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/_posts/2015-06-18-inside-out.markdown",
 		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/about.md",
 		"/C/Users/adahn_000/Documents/GitHub/adahn6.github.io/index.md",
 		"/C/Program Files (x86)/Steam/steamapps/common/Homeworld/HomeworldRM/Bin/Profiles/Profile1/PLAYERCFG.LUA",
@@ -124,13 +167,14 @@
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 64.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 176.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -138,6 +182,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"color",
+			"justify",
+			"text-align",
 			"title",
 			"post-meta",
 			"post-title",
@@ -160,59 +207,515 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_posts/2015-06-11-jurassic-world.markdown",
+					"file": "_sass/_posts.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 865,
+						"buffer_size": 814,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								98,
-								98
+								811,
+								811
 							]
 						],
 						"settings":
 						{
-							"WordCountSyntax": "markdown",
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "plain text",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "_posts/2015-06-27-adaptation.markdown",
+					"file": "_layouts/page.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 928,
+						"buffer_size": 204,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								112,
-								112
+								165,
+								165
 							]
 						],
 						"settings":
 						{
-							"WordCountSyntax": "markdown",
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "html.sublime-syntax",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								593,
+								593
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "html.sublime-syntax",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8931,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										184,
+										189
+									],
+									[
+										221,
+										226
+									],
+									[
+										415,
+										420
+									],
+									[
+										444,
+										449
+									],
+									[
+										473,
+										478
+									],
+									[
+										668,
+										673
+									],
+									[
+										778,
+										783
+									],
+									[
+										898,
+										903
+									],
+									[
+										921,
+										926
+									],
+									[
+										1015,
+										1020
+									],
+									[
+										1208,
+										1213
+									],
+									[
+										1226,
+										1231
+									],
+									[
+										1283,
+										1288
+									],
+									[
+										1298,
+										1303
+									],
+									[
+										1510,
+										1515
+									],
+									[
+										1650,
+										1655
+									],
+									[
+										1665,
+										1670
+									],
+									[
+										1795,
+										1800
+									],
+									[
+										1911,
+										1916
+									],
+									[
+										1949,
+										1954
+									],
+									[
+										2048,
+										2053
+									],
+									[
+										2129,
+										2134
+									],
+									[
+										2208,
+										2213
+									],
+									[
+										2289,
+										2294
+									],
+									[
+										2369,
+										2374
+									],
+									[
+										2506,
+										2511
+									],
+									[
+										2622,
+										2627
+									],
+									[
+										2735,
+										2740
+									],
+									[
+										2920,
+										2925
+									],
+									[
+										2933,
+										2938
+									],
+									[
+										3010,
+										3015
+									],
+									[
+										3029,
+										3034
+									],
+									[
+										3234,
+										3239
+									],
+									[
+										3381,
+										3386
+									],
+									[
+										3490,
+										3495
+									],
+									[
+										3608,
+										3613
+									],
+									[
+										3771,
+										3776
+									],
+									[
+										3863,
+										3868
+									],
+									[
+										4043,
+										4048
+									],
+									[
+										4218,
+										4223
+									],
+									[
+										4331,
+										4336
+									],
+									[
+										4364,
+										4369
+									],
+									[
+										4468,
+										4473
+									],
+									[
+										4644,
+										4649
+									],
+									[
+										4829,
+										4834
+									],
+									[
+										4863,
+										4868
+									],
+									[
+										5065,
+										5070
+									],
+									[
+										5099,
+										5104
+									],
+									[
+										5288,
+										5293
+									],
+									[
+										5416,
+										5421
+									],
+									[
+										5461,
+										5466
+									],
+									[
+										5500,
+										5505
+									],
+									[
+										5551,
+										5556
+									],
+									[
+										5658,
+										5663
+									],
+									[
+										5840,
+										5845
+									],
+									[
+										5855,
+										5860
+									],
+									[
+										5979,
+										5984
+									],
+									[
+										6026,
+										6031
+									],
+									[
+										6087,
+										6092
+									],
+									[
+										6142,
+										6147
+									],
+									[
+										6201,
+										6206
+									],
+									[
+										6266,
+										6271
+									],
+									[
+										6335,
+										6340
+									],
+									[
+										6397,
+										6402
+									],
+									[
+										6452,
+										6457
+									],
+									[
+										6510,
+										6515
+									],
+									[
+										6569,
+										6574
+									],
+									[
+										6645,
+										6650
+									],
+									[
+										6720,
+										6725
+									],
+									[
+										6789,
+										6794
+									],
+									[
+										6862,
+										6867
+									],
+									[
+										6941,
+										6946
+									],
+									[
+										7024,
+										7029
+									],
+									[
+										7100,
+										7105
+									],
+									[
+										7169,
+										7174
+									],
+									[
+										7241,
+										7246
+									],
+									[
+										7314,
+										7319
+									],
+									[
+										7389,
+										7394
+									],
+									[
+										7466,
+										7471
+									],
+									[
+										7543,
+										7548
+									],
+									[
+										7620,
+										7625
+									],
+									[
+										7791,
+										7796
+									],
+									[
+										7912,
+										7917
+									],
+									[
+										7984,
+										7989
+									],
+									[
+										8055,
+										8060
+									],
+									[
+										8159,
+										8164
+									],
+									[
+										8278,
+										8283
+									],
+									[
+										8346,
+										8351
+									],
+									[
+										8444,
+										8449
+									],
+									[
+										8518,
+										8523
+									],
+									[
+										8589,
+										8594
+									],
+									[
+										8660,
+										8665
+									],
+									[
+										8758,
+										8763
+									],
+									[
+										8866,
+										8871
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "find results.hidden-tmlanguage",
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -222,56 +725,57 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "_posts/2015-06-25-her-story.markdown",
+					"buffer": 4,
+					"file": "_sass/_variables.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 834,
+						"buffer_size": 3129,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								116,
-								116
+								1365,
+								1368
 							]
 						],
 						"settings":
 						{
 							"WordCountShouldRun": true,
-							"WordCountSyntax": "markdown.sublime-syntax",
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+							"WordCountSyntax": "plain text",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 558.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "_posts/2015-06-18-inside-out.markdown",
+					"buffer": 5,
+					"file": "_sass/_basscss.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 874,
+						"buffer_size": 529,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								874,
-								874
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"WordCountSyntax": "markdown.sublime-syntax",
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "plain text",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -281,32 +785,97 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "_posts/2015-06-26-desperate-housewives.markdown",
+					"buffer": 6,
+					"file": "_sass/basscss/_colors.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 904,
+						"buffer_size": 1007,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								126,
-								126
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"WordCountSyntax": "markdown",
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "plain text",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "_layouts/post.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1688,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								349,
+								349
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "html.sublime-syntax",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 465.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "_layouts/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 363,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "html.sublime-syntax",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
 					"type": "text"
 				}
 			]
@@ -360,6 +929,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"index.html",
+				"index.html"
+			]
 		],
 		"width": 0.0
 	},
@@ -389,7 +962,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 300.0,
+	"side_bar_width": 623.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
