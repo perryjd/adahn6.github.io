@@ -1,22 +1,25 @@
 # Site settings
-title:       Sam's Blog
-email:       adahn6@gmail.com
-author:      Samuel Gass
-description: ""
+title:       Pixyll
+email:       your_email@example.com
+author:      John Otander
+description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "https://adahn6.github.io"
+url:         "http://pixyll.com"
+
+# Google analytics
+google_analytics:
 
 # Optional features
 animated:           false
 show_related_posts: false
 show_post_footers:  false
+show_social_icons:  false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
 disqus_shortname:
 
 # Social icons
-show_social_icons: false
 github_username:
 stackoverflow_id:
 twitter_username:
@@ -42,10 +45,12 @@ share_stumbleupon: false
 share_hackernews: false
 
 # Build settings
-markdown:     redcarpet
+markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     10
+paginate:     4
 sass:
   compressed: true
+gems:
+  - jekyll-sitemap
